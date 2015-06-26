@@ -1,0 +1,17 @@
+{
+  "name": "SSMigrator",
+  "version": "1.0.0",
+  "description": "migrates mysql data to mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artem Kolodko",
+  "license": "ISC",
+  "dependencies": {
+    "mongo": "^0.1.0",
+    "mongodb": "^2.0.27",
+    "mysql": "^2.6.1",
+    "util": "^0.10.3"
+  }
+}
